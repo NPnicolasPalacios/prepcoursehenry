@@ -1,1 +1,5 @@
-# este repositorio es del modulo 2 del prepcourse de soyhenry
+este proyecto es una prueba
+
+nicolas 
+palacios
+
